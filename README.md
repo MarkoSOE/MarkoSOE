@@ -1,13 +1,5 @@
 # Hello there 👋
 
-
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/marko-alhamadani/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/markoalhamadani" title="Twitter Profile"><img width="22" src="images/Twitter-logo.svg.png"> Twitter</a></code>
-  <code><a href="https://stackoverflow.com/users/13801461/markogit" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-</h5>
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -27,6 +19,14 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/marko-alhamadani/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/markoalhamadani" title="Twitter Profile"><img width="22" src="images/Twitter-logo.svg.png"> Twitter</a></code>
+  <code><a href="https://stackoverflow.com/users/13801461/markogit" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.codewars.com/users/MarkoSOE" title="Codewars Profile"><img width="22" src="images/codewars.webp"> Stack Overflow</a></code>
+</h5>
 
 - 🌱 I am currently learning **React**
 
