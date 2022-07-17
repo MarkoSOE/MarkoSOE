@@ -32,9 +32,9 @@ me.say_hi()
   Hi, I'm Mark Al-Hamadani, Research Impact Analyst @UHN and a Software Engineer @100Devs
   <br>
   <br>
-  🔬 I graduated from University of Toronto Masters in Biomedical Engineering
+  🔬 I graduated from University of Toronto with a Masters in Biomedical Engineering
   <br>
-  🎓 I graduated from University of Guelph Bachelors in Biomedical Engineering
+  🎓 I graduated from University of Guelph with a Bachelors in Biomedical Engineering
   <br>
   💻 I love writing code and learn anythings about it
   <br>
