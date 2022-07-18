@@ -29,7 +29,7 @@ me.say_hi()
 </h5>
 
 <p align="center">
-  Hi, I'm Mark Al-Hamadani, Research Impact Analyst @UHN and a Software Engineer @100Devs
+  Hi, I'm Marko Al-Hamadani, Research Impact Analyst @UHN and a Software Engineer @100Devs
   <br>
   <br>
   🔬 I graduated from University of Toronto with a Masters in Biomedical Engineering
