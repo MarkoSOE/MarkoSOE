@@ -83,7 +83,7 @@ me.say_hi()
             <a href="https://github.com/MarkoSOE/cocktailAPI" target="_blank" rel="noreferrer"> <img src="https://github.com/MarkoSOE/MarkoSOE/blob/main/CocktailAPI.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/MarkoSOE/cocktailAPI" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://cocktailnodeapi.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              This API allows users to find recipes (ingredients, quantities, cup/vessel) for any alcoholic drink they'd like to make. Or surprise yourself with a random one
+              This web app allows users to find recipes (ingredients, quantities, cup/vessel) for any alcoholic drink they'd like to make. Or surprise yourself with a random one
             </p>
           </p>
         </td>
