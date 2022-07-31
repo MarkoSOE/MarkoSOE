@@ -63,7 +63,6 @@ me.say_hi()
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="MarkoSOE's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarkoSOE&theme=tokyonight_duo&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 ## Highlight Projects
