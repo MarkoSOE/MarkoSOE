@@ -45,7 +45,6 @@ me.say_hi()
 
 ## Technologies & Tools
 
-
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
