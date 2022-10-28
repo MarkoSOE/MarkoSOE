@@ -36,7 +36,7 @@ me.say_hi()
   <br>
   🎓 I graduated from University of Guelph with a Bachelors in Biomedical Engineering
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning everything about it
   <br>
   📚 I’m currently learning **React**
   <br>
