@@ -32,7 +32,7 @@ me.say_hi()
   Hi, I'm Marko Al-Hamadani, Data Analyst @CAMH
 
   <br>
-  📚 I’m currently a student at Oregon State University (OSU) persuing a Bachelors in Computer Science (Post-Bacc)
+  📚 I’m currently a student at Oregon State University (OSU) pursuing a Bachelors in Computer Science (Post-Bacc)
   <br>
   🔬 I graduated from University of Toronto with a Masters in Biomedical Engineering
   <br>
