@@ -29,7 +29,7 @@ me.say_hi()
 </h5>
 
 <p align="center">
-  Hi, I'm Marko Al-Hamadani, Data Analyst @CAMH and a Software Engineer @100Devs
+  Hi, I'm Marko Al-Hamadani, Data Analyst @CAMH
 
   <br>
   📚 I’m currently a student at Oregon State University (OSU) persuing a Bachelors in Computer Science (Post-Bacc)
