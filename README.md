@@ -30,16 +30,15 @@ me.say_hi()
 
 <p align="center">
   Hi, I'm Marko Al-Hamadani, Data Analyst @CAMH and a Software Engineer @100Devs
+
   <br>
+  📚 I’m currently a student at Oregon State University (OSU) persuing a Bachelors in Computer Science (Post-Bacc)
   <br>
   🔬 I graduated from University of Toronto with a Masters in Biomedical Engineering
   <br>
   🎓 I graduated from University of Guelph with a Bachelors in Biomedical Engineering
   <br>
   💻 I love writing code and learning everything about it
-  <br>
-  📚 I’m currently learning **React**
-  <br>
   📫 How to reach me: <a href="mailto: markoalhamadani@gmail.com">markoalhamadani@gmail.com</a>
 </p>
 
